@@ -1,3 +1,5 @@
+# 使用RNN生成手写体数字。
+
 DRAW implmentation [Gregor 2015]
 =======
 Implementation of the draw network in Lasagne (https://github.com/benanne/Lasagne)
